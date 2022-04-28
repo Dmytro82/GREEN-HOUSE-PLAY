@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/green-house-play/static/css/main.073c9b0a.css",
+    "main.js": "/green-house-play/static/js/main.11309d06.js",
+    "static/js/787.1e068f28.chunk.js": "/green-house-play/static/js/787.1e068f28.chunk.js",
+    "static/media/logo.svg": "/green-house-play/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/green-house-play/index.html",
+    "main.073c9b0a.css.map": "/green-house-play/static/css/main.073c9b0a.css.map",
+    "main.11309d06.js.map": "/green-house-play/static/js/main.11309d06.js.map",
+    "787.1e068f28.chunk.js.map": "/green-house-play/static/js/787.1e068f28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11309d06.js"
+  ]
+}
